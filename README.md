@@ -11,9 +11,7 @@ Download a CSV report.
 
 To run it:
 
-bash
-Copy
-Edit
 pip install flask requests tabulate
 python fortinet_wifi_report_app.py
+
 Then open http://localhost:5000 in your browser.
